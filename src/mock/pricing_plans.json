@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Basic",
+        "coast": 20,
+        "properties": [
+            "1gb",
+            "15g gb brandwith",
+            "5 subdomain",
+            "ssd server",
+            "1 web hosting",
+            "free ssl",
+            "24/7 support"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Standard",
+        "coast": 30,
+        "properties": [
+            "1gb",
+            "15g gb brandwith",
+            "5 subdomain",
+            "ssd server",
+            "1 web hosting",
+            "free ssl",
+            "24/7 support"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Premium",
+        "coast": 40,
+        "properties": [
+            "1gb",
+            "15g gb brandwith",
+            "5 subdomain",
+            "ssd server",
+            "1 web hosting",
+            "free ssl",
+            "24/7 support"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Personal",
+        "coast": 30,
+        "properties": [
+            "1gb",
+            "15g gb brandwith",
+            "5 subdomain",
+            "ssd server",
+            "1 web hosting",
+            "free ssl",
+            "24/7 support"
+        ]
+    }
+]

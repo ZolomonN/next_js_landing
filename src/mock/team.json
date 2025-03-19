@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "fio": "Jhon Doe",
+        "post": "Founder/Ceo"
+    },
+    {
+        "id": 2,
+        "fio": "Stefani Sanah",
+        "post": "Co-Founder"
+    },
+    {
+        "id": 3,
+        "fio": "Dennis Evans",
+        "post": "Web Developer"
+    },
+    {
+        "id": 4,
+        "fio": "Maria Ross",
+        "post": "Business Developer"
+    }
+]
