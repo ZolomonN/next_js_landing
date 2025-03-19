@@ -1,12 +1,13 @@
-## Лендинг на Next.js с использованием Material Design
+## Лендинг на Next.js
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Cтек
+- Next.js
+- TypeScript
+- Material UI
+
+# Дополнительные библиотеки
+- embla-carousel
+
+# Ссылка
+https://next-js-landing-six.vercel.app
 
