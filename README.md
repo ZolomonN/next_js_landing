@@ -1,13 +1,13 @@
-## Лендинг на Next.js
+# Лендинг на Next.js
 
-# Cтек
+## Cтек
 - Next.js
 - TypeScript
 - Material UI
 
-# Дополнительные библиотеки
+## Дополнительные библиотеки
 - embla-carousel
 
-# Ссылка
+## Ссылка
 https://next-js-landing-six.vercel.app
 
